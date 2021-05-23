@@ -13,6 +13,7 @@ def index():
     # Increment the count
     count += 1
     test = 5 #esta línea genera un error el linting
+    # For Test
 
     # Overwrite the count
     f = open("count.txt", "w")
