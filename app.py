@@ -11,7 +11,7 @@ def index():
     f.close()
 
     # Increment the count
-    count += 1
+    count += 2
     test = 5 #esta línea genera un error el linting
     # For Test
 
